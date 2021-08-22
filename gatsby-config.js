@@ -21,6 +21,7 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-manifest`,
+      pathPrefix: 'http://official-bharat.github.io/Bharat-Portfolio',
       options: {
         name: `Bharat Portfolio`,
         short_name: `Portfolio`,
